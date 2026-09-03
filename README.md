@@ -1,0 +1,1 @@
+# flexispot-e7q-esphome
